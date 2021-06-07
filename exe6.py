@@ -1,3 +1,4 @@
+#Dobro,Triplo,Raiz
 n = int(input('Digite um numero:'))
 d = n *2
 t = n *3
