@@ -1,3 +1,4 @@
+#Analisandor de texto
 nome = str(input('digite seu nome completo: ')).strip()
 print('Analisando o seu nome...')
 print('seu nome em amiuscolas e {}'.format(nome.upper()))
