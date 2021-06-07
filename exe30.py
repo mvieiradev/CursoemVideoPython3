@@ -1,3 +1,4 @@
+#Par ou Impar?
 numero = int(input('Me diga um nume qualquel:'))
 resultado = numero % 2
 if resultado == 0:
