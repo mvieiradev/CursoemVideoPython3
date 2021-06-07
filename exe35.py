@@ -1,3 +1,4 @@
+#Analisando Triangulo v.1.0
 print('-='*20)
 print('analisador de triangulos')
 print('-='*20)
