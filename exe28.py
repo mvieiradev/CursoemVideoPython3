@@ -1,3 +1,4 @@
+#Jogo Adivinhaçao v.1.0
 from random import randint
 from time import sleep
 computador = randint(0, 5)
