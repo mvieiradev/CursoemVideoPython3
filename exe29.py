@@ -1,3 +1,4 @@
+#Radar eletronico
 velocidade = float(input('qual a velocidade que o carro esta andando?'))
 if velocidade > 80:
     print('MULTADO! Voce ultrapasol o limite permitido que e 80Km/h')
